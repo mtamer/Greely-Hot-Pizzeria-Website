@@ -1,0 +1,65 @@
+/* 
+Google fonts used:
+font-family: 'Open Sans', sans-serif;
+font-family: 'Open Sans Condensed', sans-serif;
+font-family: 'Princess Sofia', cursive;
+*/
+body		      		{ background-image: url(../Images/bg/tan-bg.jpg);
+		       				 background-repeat:repeat; 
+							 font-family:Arial, Helvetica, sans-serif; }
+h1,h2,h3 				{ font-family: 'Princess Sofia', cursive; } /* Change the font here*/
+							 
+							 
+#wrapper				{ width:900px; margin:10px auto;
+			 				background-color: #FFF;
+							padding:0px 40px; }
+							
+#social-media			{ float:right; margin: 40px 0 }
+#social-media ul li      	{ display: inline; list-style-type:none; } 
+#social-media p    		{ font-weight:bold; }							
+							
+top 					{ }
+
+
+#logo   				{ float: left;}
+
+
+#topnav 				{ clear:both; }
+#topnav ul				{ padding:15px 0; margin: 0; 
+							border-top: 1px #000 dotted; }
+#topnav ul li			{ display:inline; list-style-type:none; 
+							margin: 0 40px 0 100px; }	
+													 
+a:link  				{ font-weight:bold;  text-decoration:none; text-transform:uppercase; color:#000; }
+a:visited 				{ font-weight: bold; text-decoration:none; text-transform:uppercase; color:#000; }
+a:active 				{ font-weight: bold; text-decoration:none; text-transform:uppercase; color:#000; }
+a:hover					{ font-weight: bold; text-decoration:none; text-transform:uppercase; color:#F00; }
+a:focus	   				{ font-weight: bold; text-decoration:none; text-transform:uppercase; color:#00F; }
+
+
+
+#rightside 				{ width:270px; float:right; margin:40px 0px;  }
+#rightside h2			{ font-size:24px; font-weight:bold; margin:0 0 20px 0; color:#9F5000;	}
+#rightside h3			{ font-size:24px; font-weight:bold; margin:0 0 20px 0; color:#9F5000;	 }
+#rightside p			{ line-height:160%; margin:12px 0;	}
+#rightside .image		{ width:270px;	}
+#rightside li			{ list-style-type:square; margin:0 0 12px 30px;	}
+#rightside a			{	}
+
+
+#content 				{ width:580px; float:left; margin:30px 0;  }
+#content h1				{ font-size:32px; font-weight:bold; margin:10px 0px 20px 0px; color:#000;
+							border-bottom:1px #000 dotted; padding-bottom:22px; margin-bottom:22px;	}
+#content h2				{ font-size:24px; font-weight:bold; margin:20px 0px 20px 0px; color:#9F5000;	}
+#content h3				{ font-size:16px; font-weight:bold; margin:10px 0px 20px 0px; color:#9F5000;	}
+#content p				{ line-height:180%;	}
+#content img			{ 	}
+#content li				{ list-style-type:square; margin:10px 40px;	}
+#content a				{	}
+
+
+#footer 				{ clear:both; padding:15px 0px;
+						border-top:1px #333 dotted;  }
+#footer a				{ font-size:11px; font-weight:bold; text-align:center; display:block; }
+#footer p 				{ text-align:center;font-size:14px; font-weight:bold;}
+				
