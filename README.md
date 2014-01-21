@@ -1,4 +1,4 @@
-Greely-Hot-Pizzerea-Website
+Greely-Hot-Pizzeria-Website
 ===========================
 
 Side Project. 
